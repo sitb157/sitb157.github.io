@@ -31,6 +31,6 @@ WORKDIR /srv/jekyll
 
 RUN bundle install --no-cache
 # && rm -rf /var/lib/gems/3.1.0/cache
-EXPOSE 8080
+EXPOSE 4000
 
-CMD ["/bin/bash", "-c", "rm -f Gemfile.lock && exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace"]
+CMD ["/bin/bash", "-c", "rm -f Gemfile.lock && exec jekyll serve --watch --port=4000 --host=0.0.0.0 --livereload --verbose --trace"]
