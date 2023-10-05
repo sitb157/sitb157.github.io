@@ -1,8 +1,8 @@
-- title: General
+- title: General Information
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Albert Eins
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
