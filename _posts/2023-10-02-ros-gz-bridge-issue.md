@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ros_gz_bridge issue log
+title:  a post with ros_gz_bridge issue log
 date: 2023-10-02 21:01:00
 description: this is log to archive issue
 tags: issue
