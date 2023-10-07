@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sitb157
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sitb157/dotfiles
+  - sitb157/multi_robots_project
+  - sitb157/arduino_iot
