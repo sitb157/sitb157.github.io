@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hello!!!</p>
+    <p></p>
 
 news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
