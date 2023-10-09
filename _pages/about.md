@@ -17,3 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+:raising_hand: Hi! Nice to meet you!!!    
+I work as a robotics software engineer.  
+Currently, I am developing a ros-based control system.  
+I would like to study various fields other than ROS.  
