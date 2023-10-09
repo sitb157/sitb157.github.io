@@ -17,7 +17,3 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-
-I aspire to become a robotics software engineer and am currently studying ROS (Robot Operating System).  
-However, I also have a strong desire to broaden my knowledge beyond robotics.  
-I am actively working on improving my English language skills as well.
