@@ -5,6 +5,8 @@ date: 2023-10-02 21:01:00
 description: this is log to archive issue
 tags: issue
 categories: sample-posts
+giscus_comments: true
+related_posts: false
 thumbnail: assets/img/posts/ros_gz_bridge_issue/thumbnail.png
 ---  
 ### Issue Encountered During Gazebo Garden Installation and Demo Test  
