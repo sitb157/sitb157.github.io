@@ -21,5 +21,5 @@ category: work
 #### sensors list  
 - Differential Control Model  
 - IMU  
-- LiDAR(2d)  
+- LiDAR(3d)  
 - NavSat  
