@@ -4,7 +4,7 @@ title:  Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene 
 date: 2025-03-30 22:00:00
 description: This paper proposes a **real-time dynamic scene understanding system** for autonomous driving based on **CLIP** (Contrastive Language–Image Pretraining) and **FAISS** (Facebook AI Similarity Search). It aims to improve the flexibility, interpretability, and efficiency of ADAS and autonomous systems by leveraging vision-language representations.
 tags: paper
-categories: study
+categories: sample-posts
 giscus_comments: true
 related_posts: false
 ---  
