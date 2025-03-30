@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding
+title: Study Paper
 date: 2025-03-30 22:00:00
 description: This paper proposes
 tags: issue
