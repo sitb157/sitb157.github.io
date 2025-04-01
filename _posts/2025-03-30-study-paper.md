@@ -3,8 +3,8 @@ layout: post
 title: Study Paper
 date: 2025-03-30 22:00:00
 description: This paper proposes
-tags: issue
-categories: sample-posts
+tags: paper
+categories: study
 giscus_comments: true
 related_posts: false
 thumbnail:
