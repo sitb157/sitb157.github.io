@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Study Paper
+title: CLIP-Based Dynamic Scene Understanding
 date: 2025-03-30 22:00:00
 description: This paper proposes
 tags: paper
