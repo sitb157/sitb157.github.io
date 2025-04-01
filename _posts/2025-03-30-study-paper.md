@@ -7,7 +7,7 @@ tags: issue
 categories: sample-posts
 giscus_comments: true
 related_posts: false
-thumbnail: assets/img/posts/ros_gz_bridge_issue/thumbnail.png
+thumbnail:
 ---  
 # 📄 Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding
 
