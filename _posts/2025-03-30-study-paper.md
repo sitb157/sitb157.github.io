@@ -9,10 +9,35 @@ giscus_comments: true
 related_posts: false
 thumbnail: assets/img/posts/ros_gz_bridge_issue/thumbnail.png
 ---  
-### Issue Encountered During Gazebo Garden Installation and Demo Test  
-#### ros_gz_bridge error  
-During the installation and demo test of Gazebo Garden, I encountered an issue with the ros_gz_bridge.  
-Specifically, when using the parameter_bridge, the data was not being transferred to ROS 2 topics as expected.  
-I followed the example provided [here]((https://index.ros.org/p/ros_gz_bridge/), but the issue persisted. In my search for a solution,  
-I came across a similar issue.  Despite attempting the suggested solutions in the [issue](https://github.com/gazebosim/ros_gz/issues/365)  
-however, the problem remained unresolved.  
+# 📄 Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding
+
+> **Authors:** Mohammed Elhenawy et al.  
+> **Year:** 2025  
+> **Link:** [arXiv:2501.05566](https://arxiv.org/pdf/2501.05566)  
+> **Keywords:** CLIP, FAISS, Vision-Language Model, Scene Understanding, Real-Time Inference, Autonomous Driving
+
+---
+
+## 📌 Overview
+
+This paper proposes a **real-time dynamic scene understanding system** for autonomous driving based on **CLIP** (Contrastive Language–Image Pretraining) and **FAISS** (Facebook AI Similarity Search). It aims to improve the flexibility, interpretability, and efficiency of ADAS and autonomous systems by leveraging vision-language representations.
+
+---
+
+## 🧠 Key Idea
+
+- Convert both **images** and **text descriptions** into a shared vector space using CLIP.
+- Use **FAISS** to quickly retrieve the most semantically similar text descriptions for an input driving scene image.
+- Determine scene labels (e.g., `"rainy 3-way intersection, entering"`) using **Top-k similarity search** and **majority voting**.
+
+---
+
+## 🛠️ System Architecture
+
+```mermaid
+graph TD
+A[Input Image Frame] --> B[CLIP Image Encoder]
+B --> C[512D Image Feature Vector]
+C --> D[FAISS Top-k Text Retrieval]
+D --> E[Top-k Text Labels]
+E --> F[Majority Voting or Averaging for Final Prediction]
