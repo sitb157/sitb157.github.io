@@ -8,8 +8,7 @@ categories: study
 giscus_comments: true
 related_posts: false
 thumbnail:
----
-
+---  
 # 📄 CoOp & CoCoOp: Prompt Learning for Vision-Language Models
 
 > **CoOp:** *Learning to Prompt for Vision-Language Models*, CVPR 2022  
