@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CoOp & CoCoOp — Prompt Learning for Vision-Language Models
-date: 22025-04-02 22:00:00
+date: 2025-04-02 22:00:00
 description: This post summarizes two prompt learning approaches for adapting CLIP to downstream tasks CoOp and CoCoOp.
 tags: paper
 categories: study
