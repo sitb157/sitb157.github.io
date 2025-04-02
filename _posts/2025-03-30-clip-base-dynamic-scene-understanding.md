@@ -2,7 +2,7 @@
 layout: post
 title: CLIP-Based Dynamic Scene Understanding
 date: 2025-03-30 22:00:00
-description: This paper proposes
+description: This post summarizes two prompt learning approaches for adapting CLIP to downstream tasks CoOp and CoCoOp.
 tags: paper
 categories: study
 giscus_comments: true
