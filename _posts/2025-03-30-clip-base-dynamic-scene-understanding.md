@@ -2,7 +2,7 @@
 layout: post
 title: CLIP-Based Dynamic Scene Understanding
 date: 2025-03-30 22:00:00
-description: Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding
+description: Vision-Language Models for Autonomous Driving CLIP-Based Dynamic Scene Understanding
 tags: paper
 categories: study
 giscus_comments: true
